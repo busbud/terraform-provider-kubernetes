@@ -20,7 +20,7 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/peterbourgon/diskv v2.0.1+incompatible // indirect
 	github.com/stoewer/go-strcase v1.0.2 // indirect
-	github.com/terraform-providers/terraform-provider-aws v0.0.0-20190510001811-4b894dbf13f6
+	github.com/terraform-providers/terraform-provider-aws v0.1.4
 	github.com/terraform-providers/terraform-provider-google v1.20.0
 	github.com/terraform-providers/terraform-provider-random v2.0.0+incompatible // indirect
 	github.com/ulikunitz/xz v0.5.6 // indirect
